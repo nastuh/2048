@@ -2,6 +2,7 @@
 This game is created in the likeness of the game 2048.
 
 In it you can get the maximum number of points and develop your skills.
+
 ---
 
 Commands:
